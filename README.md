@@ -1,0 +1,1 @@
+when trying to apply the cursor in filed move the file named {OIP} move into cursor file and go to mouse setting and hit browse and click the file that you moved to cursor and click it an apply it to your custom cursor
